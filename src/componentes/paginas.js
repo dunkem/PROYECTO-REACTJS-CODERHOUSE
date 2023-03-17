@@ -1,10 +1,15 @@
 import React from 'react'
+import { Routes, Route } from "react-router-dom";
+import { Inicio } from "./Inicio";
+import { ProductosLista } from "./Productos/index";
 
-export const paginas = () => {
+export const Paginas = () => {
     return (
-        <div>
-            <h1>Paginas</h1>
-        </div>
-
+        <section>
+            <Routes>
+                <Route path='/inicio' exact component={Inicio} />
+                <Route path='/productos' exact component={ProductosLista} />
+            </Routes>
+        </section>
     )
 }

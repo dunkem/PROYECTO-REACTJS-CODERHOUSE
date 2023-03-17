@@ -1,6 +1,7 @@
 import React from 'react'
 import Nike from "../../images/Nike.jpg"
 
+
 export const Header = () => {
     return (
         <header>
