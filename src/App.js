@@ -5,6 +5,7 @@ import {DataProvider} from './context/DataProvider';
 import { BrowserRouter as Router} from "react-router-dom";
 import Pages from "./components/Page.js";
 import "boxicons";
+import { Footer } from 'components/Footer';
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <Header />
       <Carrito />
       <Pages />
+      <Footer />
       </Router>
     </div>
     </DataProvider>

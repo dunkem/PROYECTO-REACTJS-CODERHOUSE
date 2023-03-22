@@ -32,16 +32,6 @@ const data = {
       cantidad: 1
     },
     {
-      id: 4,
-      title: "Nike Dunk Low SP Kentucky (2021)",
-      price: 405,
-      image: "https://stockx-360.imgix.net/Nike-Dunk-Low-SP-Kentucky/Images/Nike-Dunk-Low-SP-Kentucky/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606322330&w=1000",
-      category: "nike",
-      img1: " https://stockx-360.imgix.net/Nike-Dunk-Low-SP-Kentucky/Images/Nike-Dunk-Low-SP-Kentucky/Lv2/img",
-      img2: ".jpg?auto=format,compress&q=90&updated_at=1606322330&w=1000",
-      cantidad: 1
-    },
-    {
       id: 5,
       title: "Nike Dunk Low Off-White University",
       price: 285,
@@ -59,16 +49,6 @@ const data = {
       category: "nike",
       img1: "https://stockx-360.imgix.net/Nike-Air-Force-1-Low-Clot-Blue-Silk/Images/Nike-Air-Force-1-Low-Clot-Blue-Silk/Lv2/img",
       img2: ".jpg?auto=format,compress&q=90&updated_at=1606325265&w=1000",
-      cantidad: 1
-    },
-    {
-      id: 7,
-      title: "Nike Air Max 90 OG Volt (2020)",
-      price: 799,
-      image: "https://stockx-360.imgix.net/Nike-Air-Max-90-OG-White-Particle-Grey-Volt/Images/Nike-Air-Max-90-OG-White-Particle-Grey-Volt/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606323250&w=1000",
-      category: "nike",
-      img1: "https://stockx-360.imgix.net/Nike-Air-Max-90-OG-White-Particle-Grey-Volt/Images/Nike-Air-Max-90-OG-White-Particle-Grey-Volt/Lv2/img",
-      img2: ".jpg?auto=format,compress&q=90&updated_at=1606323250&w=1000",
       cantidad: 1
     },
     {

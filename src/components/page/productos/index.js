@@ -21,9 +21,6 @@ export const ProductosList = () => {
 								/>
 							))
 						}		
-	<footer>
-      <div id="copyright">Copyright&copy; 2023 - Página creada por Douglas Dunke - Todos los derechos reservados</div>
-    </footer>
 	</div></>			
     )
 }

@@ -11,10 +11,7 @@ export default function Inicio() {
             <Link to="/productos">
             <h1>Productos</h1>
             </Link>
-            <img src={Portada} alt=""/>
-            <footer>
-      <div id="copyright">Copyright&copy; 2023 - Página creada por Douglas Dunke - Todos los derechos reservados</div>
-    </footer>
-        </div>
+            <img src={Portada} alt=""/>            
+            </div>
     )
 }
