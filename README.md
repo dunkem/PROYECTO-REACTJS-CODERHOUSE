@@ -1,7 +1,7 @@
 Tienda "Original Nike" diseñada con React Js, tengo el deploy subido a "netlify", el gif de se encuentra en la carpeta "gif proyecto"
 Deploy https://originalnikereactjs.netlify.app/
 
-Es un ecommerce de zapatillas nike, sus funciones de cart+data funciones correctamente al sumar, restar y eliminarl productos.
+Es un ecommerce de zapatillas nike, sus funciones de cart+data funcionan correctamente al sumar, restar y eliminar productos.
 Todo se muestra en el deploy nombrado anteriormente.
 
 # Getting Started with Create React App
